@@ -61,6 +61,6 @@ This repository is focused on developing:
 
 ## Tech
 
-**Java | OOP | DSA | Algorithms | Problem Solving**
+**Java | OOP | DSA | Algorithms | Problem Solving | Pattern Recognition **
 
 ---
