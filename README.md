@@ -53,7 +53,7 @@ Analyze Complexity
 This repository is focused on developing:
 
 * Strong Java fundamentals
-* Object-oriented design thinking
+* Object-oriented design/pattern thinking
 * Algorithmic problem solving
 * Clean code
 * Complexity analysis
